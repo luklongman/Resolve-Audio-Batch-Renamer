@@ -6,7 +6,7 @@
 
 ## Overview
 
-This Python script provides a command-line interface to interact with DaVinci Resolve Studio for organizing audio clips within ONE specific Project Timeline. It allows users to inspect audio clip details, and perform batch renaming and path replacement operations on audio files, over ONE or MULTIPLE audio tracks. 
+This Python script provides a command-line interface to interact with DaVinci Resolve Studio for organizing audio clips within ONE specific project timeline. It allows users to inspect audio clips, and perform batch renaming and path replacement operations, over ONE or MULTIPLE audio tracks. 
 
 ## Workflow
 
