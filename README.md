@@ -6,7 +6,7 @@
 **Date:** May 18, 2025  
 **Version:** 1.0
 
-[![Watch the video]]([https://youtu.be/VIDEO_ID](https://www.youtube.com/shorts/S1hrQM857yU))
+https://github.com/user-attachments/assets/bbf9e7ce-4d52-4753-b7dd-50ef7d014c9e
 
 ## Overview
 
