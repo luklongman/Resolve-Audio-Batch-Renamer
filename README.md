@@ -1,6 +1,7 @@
 # DaVinci Resolve Audio File Batch Renamer
 
-![Alt text](icon.png)
+<img src="icon.png" width="15%" />
+
 
 **Author:** Longman  
 **Date:** May 18, 2025  
